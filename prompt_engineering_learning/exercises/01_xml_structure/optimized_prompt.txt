@@ -1,0 +1,6 @@
+# Your Optimized Prompt
+# Write this AFTER reading guidance.md and testing your naive prompt
+
+# Apply the XML structure pattern here:
+
+

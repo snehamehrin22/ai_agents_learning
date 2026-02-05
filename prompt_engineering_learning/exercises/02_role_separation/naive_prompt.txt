@@ -1,0 +1,6 @@
+# Your Naive Prompt
+# Write your first attempt - put everything in one message
+
+# Don't look at guidance.md yet!
+
+

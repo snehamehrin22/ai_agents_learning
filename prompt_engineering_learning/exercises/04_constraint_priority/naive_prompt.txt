@@ -1,0 +1,6 @@
+# Your Naive Prompt
+# Include all 5 constraints with strong language (MUST, ALWAYS)
+# but NO priority ordering
+
+
+

@@ -1,0 +1,5 @@
+# Your Optimized Prompt
+# Same constraints, but with explicit priority ordering
+
+
+

@@ -1,0 +1,17 @@
+# Your Optimized Prompt(s)
+# Either write two task-specific prompts OR one adaptive prompt
+
+# OPTION 1: Two separate prompts
+
+## For Simple Tasks:
+
+
+
+## For Complex Tasks:
+
+
+
+# OPTION 2: One adaptive prompt
+
+
+

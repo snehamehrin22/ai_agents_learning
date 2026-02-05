@@ -1,0 +1,12 @@
+# Your Optimized Prompt
+# Write this AFTER reading guidance.md
+
+# SYSTEM PROMPT:
+# (This goes in the system parameter, not the user message)
+
+
+
+# USER MESSAGE:
+# (This is what you send as the user turn)
+
+

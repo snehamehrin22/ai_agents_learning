@@ -1,0 +1,10 @@
+# Your Naive Prompt
+# Write your first attempt here - don't look at guidance.md yet!
+
+# Instructions: Write a prompt that will analyze this support ticket
+# and return: category, entities (product, urgency, customer tier),
+# and a suggested response template.
+
+# Delete these instructions and write your prompt below:
+
+

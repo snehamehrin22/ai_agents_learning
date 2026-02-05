@@ -1,0 +1,9 @@
+# Your Naive Prompt
+# Include generic "think step by step" instructions
+
+# Test this on BOTH tasks in the scenario:
+# - Task A (simple git command question)
+# - Task B (complex debugging question)
+
+
+

@@ -1,0 +1,17 @@
+# Your Full Integrated Prompt
+# Combine all 7 techniques into one production-quality prompt
+
+# ===================
+# SYSTEM PROMPT
+# ===================
+
+
+
+
+# ===================
+# USER MESSAGE
+# ===================
+
+
+
+
